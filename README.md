@@ -1,24 +1,31 @@
 # Puissance4-VersionTerminal
 Ce projet est une implémentation en Java du célèbre jeu Puissance 4, jouable uniquement sur le terminal. Développé en janvier 2024, il se concentre sur la logique back-end et la mécanique de jeu.
 
+
 🛠 Fonctionnalités
 
-Deux joueurs s'affrontent en alternant leurs tours pour aligner 4 jetons consécutifs horizontalement, verticalement ou en diagonale.
-Affichage dynamique du plateau de jeu dans le terminal.
-Vérification des conditions de victoire ou de match nul.
-Code simple et facile à comprendre, idéal pour apprendre ou améliorer ses compétences en Java.
+    -Deux joueurs s'affrontent en alternant leurs tours pour aligner 4 jetons consécutifs horizontalement, verticalement ou en diagonale.
+
+    -Affichage dynamique du plateau de jeu dans le terminal.
+
+    -Vérification des conditions de victoire ou de match nul.
+
+    -Code simple et facile à comprendre, idéal pour apprendre ou améliorer ses compétences en Java.
+
 
 🚀 Instructions pour jouer
 
-1. Clonez ce repository.
+1. Clonez ce repository avec la commande ci dessous :
+
+    git clone https://github.com/AdnamDemaurisa59/Puissance4-VersionTerminal.git
 
 2. Compilez le fichier Java, avec la commande ci-dessous sur le terminal :
 
--javac puissance4.java
+    -javac puissance4.java
 
 3. Lancez le jeu, avec la commande ci-dessous sur le terminal :
 
--java puissance4
+    -java puissance4
 
  📝 Note importante
 
